@@ -1,3 +1,3 @@
-Repositorio de prueba de Despliegue de Aplicaciones Weg
+Repositorio de prueba de Despliegue de Aplicaciones Web
 =======================================================
 Hola, esto es *una prueba*...
